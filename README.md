@@ -1,2 +1,2 @@
 # networking-labs
-here i post what i learned in and what i understand in networking with practical labs
+A collection of hands-on networking labs documenting my practical learning in computer networking, packet analysis, and network configuration.
